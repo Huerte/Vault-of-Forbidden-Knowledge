@@ -1,3 +1,7 @@
+[← Back to README](../README.md) | [Contributing Guide](../CONTRIBUTING.md)
+
+---
+
 ---
 Title: <App or Tool Name> - Setup and Usage Notes
 Section: apps

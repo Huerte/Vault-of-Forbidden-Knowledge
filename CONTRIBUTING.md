@@ -1,5 +1,7 @@
 # Contributing Guide
 
+[← Back to README](README.md)
+
 Rules for adding or editing entries in this repository.
 
 ## Which Section Does My Note Belong In?
@@ -22,11 +24,11 @@ Rules for adding or editing entries in this repository.
 ## Using Templates
 Copy from `templates/` before writing anything new:
 
-| Template                    | Use when writing...                        |
-|-----------------------------|--------------------------------------------|
-| `guide-template.md`         | Step-by-step docs or app setup guides      |
-| `tool-entry-template.md`    | App-specific notes or tool reference pages |
-| `troubleshooting-template.md` | A bug fix or incident log entry          |
+| Template | Use when writing... |
+|---|---|
+| [guide-template.md](templates/guide-template.md) | Step-by-step docs or app setup guides |
+| [tool-entry-template.md](templates/tool-entry-template.md) | App-specific notes or tool reference pages |
+| [troubleshooting-template.md](templates/troubleshooting-template.md) | A bug fix or incident log entry |
 
 ## Frontmatter
 Every file must have frontmatter at the top:
@@ -35,7 +37,7 @@ Every file must have frontmatter at the top:
 ---
 Title: Clear Action Title
 Section: docs / apps / cheatsheets / logs / notes
-Category: <subfolder path>
+Category: <subfolder path, e.g., it-fundamentals/networking>
 Difficulty: Beginner / Intermediate / Advanced
 Last verified: YYYY-MM-DD
 Prerequisites: List any requirements here

@@ -1,3 +1,7 @@
+[← Back to README](../README.md) | [Contributing Guide](../CONTRIBUTING.md)
+
+---
+
 ---
 Title: <YYYY-MM-DD> - <Short Description of Bug or Fix>
 Section: logs
