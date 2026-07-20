@@ -5,7 +5,7 @@
 ---
 Title: <App or Tool Name> - Setup and Usage Notes
 Section: apps
-Category: <cli | gui | developer | it | engineering | office | gaming | productivity | browser-extensions | misc>
+Category: <developer | engineering | gaming | misc>
 Difficulty: Beginner / Intermediate / Advanced
 Last verified: YYYY-MM-DD
 Prerequisites: <OS, package manager, or other requirements>

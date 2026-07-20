@@ -49,24 +49,10 @@
 │       └── dev-tools/
 │
 ├── apps/               <- Application-specific configurations and notes (each app in its own directory)
-│   ├── cli/
-│   │   └── git/
-│   │       └── git.md
 │   ├── developer/
-│   │   └── vscode/
-│   │       └── vscode.md
-│   ├── office/
-│   │   └── obsidian/
-│   │       └── obsidian.md
-│   ├── misc/
-│   │   └── ffmpeg/
-│   │       └── ffmpeg.md
-│   ├── gui/
-│   ├── it/
 │   ├── engineering/
 │   ├── gaming/
-│   ├── productivity/
-│   └── browser-extensions/
+│   └── misc/
 │
 ├── cheatsheets/        <- One-page quick reference cards
 │
@@ -239,29 +225,7 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 Notes and configuration guides tied to a specific application or tool. Not general how-tos but setup, config, and usage notes for individual software.
 
 <details>
-<summary><strong><a href="apps/cli/">cli/</a></strong> — Command line utilities</summary>
-
-- [Git](apps/cli/git/git.md) — Distributed version control system setup, aliases, and workflow notes.
-
-</details>
-
-<details>
-<summary><strong><a href="apps/gui/">gui/</a></strong> — Desktop GUI applications</summary>
-
-<!-- Add links here -->
--
-
-</details>
-
-<details>
-<summary><strong><a href="apps/developer/">developer/</a></strong> — IDEs, code editors, API clients, and programming utilities</summary>
-
-- [Visual Studio Code](apps/developer/vscode/vscode.md) — Editor settings, keybindings, and extension setup.
-
-</details>
-
-<details>
-<summary><strong><a href="apps/it/">it/</a></strong> — Network scanners, VM managers, terminal emulators, and sysadmin software</summary>
+<summary><strong><a href="apps/developer/">developer/</a></strong> — IDEs, code editors, version control, and programming utilities</summary>
 
 <!-- Add links here -->
 -
@@ -277,13 +241,6 @@ Notes and configuration guides tied to a specific application or tool. Not gener
 </details>
 
 <details>
-<summary><strong><a href="apps/office/">office/</a></strong> — Word processors, spreadsheets, and presentation software</summary>
-
-- [Obsidian](apps/office/obsidian/obsidian.md) — Personal knowledge base, markdown vault settings, and plugins.
-
-</details>
-
-<details>
 <summary><strong><a href="apps/gaming/">gaming/</a></strong> — Game launchers, mod managers, and game-specific client utilities</summary>
 
 <!-- Add links here -->
@@ -292,25 +249,10 @@ Notes and configuration guides tied to a specific application or tool. Not gener
 </details>
 
 <details>
-<summary><strong><a href="apps/productivity/">productivity/</a></strong> — Note-taking apps, task trackers, and desktop automation tools</summary>
+<summary><strong><a href="apps/misc/">misc/</a></strong> — Media tools, note-taking, browser extensions, and other general apps</summary>
 
 <!-- Add links here -->
 -
-
-</details>
-
-<details>
-<summary><strong><a href="apps/browser-extensions/">browser-extensions/</a></strong> — Browser extension setups and configurations</summary>
-
-<!-- Add links here -->
--
-
-</details>
-
-<details>
-<summary><strong><a href="apps/misc/">misc/</a></strong> — Anything that does not fit the above categories</summary>
-
-- [FFmpeg](apps/misc/ffmpeg/ffmpeg.md) — Command line audio and video conversion, encoding flags, and tricks.
 
 </details>
 
