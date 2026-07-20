@@ -62,9 +62,3 @@ Add a tags line immediately after the `# Title` heading:
 ## Writing Rules
 - Short sentences. One idea per sentence.
 - Skip intro fluff. Start with step 1 or the point.
-- No em dashes. Use a period or comma instead.
-- No filler words: furthermore, moreover, additionally, in conclusion.
-- No filler phrases: "it is important to note", "it is worth mentioning".
-- Exact commands and exact numbers. Not "configure the port", but "set PORT=8000".
-- Write in first person for logs and notes. "I got this error when..." is fine.
-- No closing lines like "hope this helps" or "feel free to ask".
