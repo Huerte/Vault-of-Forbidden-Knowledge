@@ -19,23 +19,6 @@ Has screenshots: Yes / No
 ## What It Does
 One or two sentences on what this app or tool is for and when to use it.
 
-## Installation
-
-**Windows:**
-```powershell
-winget install <package-name>
-```
-
-**Linux (APT):**
-```bash
-sudo apt install <package-name>
-```
-
-**Linux (via official script):**
-```bash
-curl -fsSL https://example.com/install.sh | sh
-```
-
 ## First Run / Initial Setup
 What to do right after installing before using it normally.
 

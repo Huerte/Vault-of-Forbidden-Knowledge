@@ -48,17 +48,25 @@
 │       ├── troubleshooting/
 │       └── dev-tools/
 │
-├── apps/               <- Notes and guides for specific applications and tools
+├── apps/               <- Application-specific configurations and notes (each app in its own directory)
 │   ├── cli/
-│   ├── gui/
+│   │   └── git/
+│   │       └── git.md
 │   ├── developer/
+│   │   └── vscode/
+│   │       └── vscode.md
+│   ├── office/
+│   │   └── obsidian/
+│   │       └── obsidian.md
+│   ├── misc/
+│   │   └── ffmpeg/
+│   │       └── ffmpeg.md
+│   ├── gui/
 │   ├── it/
 │   ├── engineering/
-│   ├── office/
 │   ├── gaming/
 │   ├── productivity/
-│   ├── browser-extensions/
-│   └── misc/
+│   └── browser-extensions/
 │
 ├── cheatsheets/        <- One-page quick reference cards
 │
@@ -233,8 +241,7 @@ Notes and configuration guides tied to a specific application or tool. Not gener
 <details>
 <summary><strong><a href="apps/cli/">cli/</a></strong> — Command line utilities</summary>
 
-<!-- Add links here -->
--
+- [Git](apps/cli/git/git.md) — Distributed version control system setup, aliases, and workflow notes.
 
 </details>
 
@@ -249,8 +256,7 @@ Notes and configuration guides tied to a specific application or tool. Not gener
 <details>
 <summary><strong><a href="apps/developer/">developer/</a></strong> — IDEs, code editors, API clients, and programming utilities</summary>
 
-<!-- Add links here -->
--
+- [Visual Studio Code](apps/developer/vscode/vscode.md) — Editor settings, keybindings, and extension setup.
 
 </details>
 
@@ -273,8 +279,7 @@ Notes and configuration guides tied to a specific application or tool. Not gener
 <details>
 <summary><strong><a href="apps/office/">office/</a></strong> — Word processors, spreadsheets, and presentation software</summary>
 
-<!-- Add links here -->
--
+- [Obsidian](apps/office/obsidian/obsidian.md) — Personal knowledge base, markdown vault settings, and plugins.
 
 </details>
 
@@ -305,8 +310,7 @@ Notes and configuration guides tied to a specific application or tool. Not gener
 <details>
 <summary><strong><a href="apps/misc/">misc/</a></strong> — Anything that does not fit the above categories</summary>
 
-<!-- Add links here -->
--
+- [FFmpeg](apps/misc/ffmpeg/ffmpeg.md) — Command line audio and video conversion, encoding flags, and tricks.
 
 </details>
 

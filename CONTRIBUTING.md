@@ -17,6 +17,7 @@ Rules for adding or editing entries in this repository.
 ## File Placement and Naming
 - Use kebab-case for filenames. Start with an action verb.
   Examples: `setup-postgresql.md`, `install-neovim.md`, `fix-docker-permission.md`
+- App entries under `apps/<category>/` live inside a dedicated directory named after the application: `apps/<category>/<app-name>/<app-name>.md` (e.g., `apps/cli/git/git.md`, `apps/developer/vscode/vscode.md`).
 - One topic per file. Split long guides instead of merging unrelated steps.
 - OS-specific steps go in separate files: `windows.md`, `linux.md`.
 - Log entries use the date prefix: `YYYY-MM-DD-short-description.md`.
@@ -62,3 +63,4 @@ Add a tags line immediately after the `# Title` heading:
 ## Writing Rules
 - Short sentences. One idea per sentence.
 - Skip intro fluff. Start with step 1 or the point.
+- Skip installation steps for simple, single-command installs (e.g., `winget install git`). Only include an installation section or create a dedicated markdown guide if the installation requires a complex, multi-step technical process.
