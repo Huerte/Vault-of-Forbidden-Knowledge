@@ -2,19 +2,19 @@
 
 ---
 
----
-Title: <Action-Based Title, e.g., Setup PostgreSQL on Ubuntu>
-Section: docs / apps
-Category: <subfolder path, e.g., programming-dev/databases>
-Difficulty: Beginner / Intermediate / Advanced
-Last verified: YYYY-MM-DD
-Prerequisites: <List required tools, accounts, or prior knowledge>
-Has screenshots: Yes / No
+| Field | Value |
+|---|---|
+| **Title** | \<Action-Based Title, e.g., Setup PostgreSQL on Ubuntu\> |
+| **Section** | docs / apps |
+| **Category** | \<subfolder path, e.g., programming-dev/databases\> |
+| **Difficulty** | Beginner / Intermediate / Advanced |
+| **Last verified** | YYYY-MM-DD |
+| **Prerequisites** | \<List required tools, accounts, or prior knowledge\> |
+| **Has screenshots** | Yes / No |
+
 ---
 
 # <Action-Based Title>
-
-#tag1 #tag2 #tag3
 
 ## Overview
 What this solves and when to use it. Keep to 1-3 short sentences.

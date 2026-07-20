@@ -2,19 +2,19 @@
 
 ---
 
----
-Title: <YYYY-MM-DD> - <Short Description of Bug or Fix>
-Section: logs
-Category: logs
-Difficulty: Beginner / Intermediate / Advanced
-Last verified: YYYY-MM-DD
-Prerequisites: None
-Has screenshots: Yes / No
+| Field | Value |
+|---|---|
+| **Title** | \<YYYY-MM-DD\> - \<Short Description of Bug or Fix\> |
+| **Section** | logs |
+| **Category** | logs |
+| **Difficulty** | Beginner / Intermediate / Advanced |
+| **Last verified** | YYYY-MM-DD |
+| **Prerequisites** | None |
+| **Has screenshots** | Yes / No |
+
 ---
 
 # Fix: <Short Issue Title>
-
-#troubleshooting #bugfix #log
 
 ## Environment
 - OS: <e.g., Windows 11 / Ubuntu 24.04 / macOS 14>

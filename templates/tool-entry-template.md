@@ -2,19 +2,19 @@
 
 ---
 
----
-Title: <App or Tool Name> - Setup and Usage Notes
-Section: apps
-Category: <developer | engineering | gaming | misc>
-Difficulty: Beginner / Intermediate / Advanced
-Last verified: YYYY-MM-DD
-Prerequisites: <OS, package manager, or other requirements>
-Has screenshots: Yes / No
+| Field | Value |
+|---|---|
+| **Title** | \<App or Tool Name\> - Setup and Usage Notes |
+| **Section** | apps |
+| **Category** | \<developer \| engineering \| gaming \| misc\> |
+| **Difficulty** | Beginner / Intermediate / Advanced |
+| **Last verified** | YYYY-MM-DD |
+| **Prerequisites** | \<OS, package manager, or other requirements\> |
+| **Has screenshots** | Yes / No |
+
 ---
 
 # <App or Tool Name>
-
-#tag1 #tag2 #tag3
 
 ## What It Does
 One or two sentences on what this app or tool is for and when to use it.
