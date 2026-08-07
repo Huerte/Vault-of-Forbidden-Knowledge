@@ -59,6 +59,20 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 
 </details>
 
+<details>
+<summary><strong><a href="docs/it-fundamentals/">it-fundamentals/</a></strong> — Hardware, networking, OS, and security</summary>
+
+<br>
+
+<details>
+<summary><a href="docs/it-fundamentals/hardware/">hardware/</a></summary>
+
+- [Identifying Real PC Specs (dxdiag & msinfo32)](docs/it-fundamentals/hardware/identifying-real-pc-specs.md)
+
+</details>
+
+</details>
+
 ---
 
 ## [apps](apps/)
