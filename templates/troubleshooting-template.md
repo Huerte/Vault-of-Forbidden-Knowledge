@@ -49,6 +49,3 @@ I ran `<command>` after the fix. The error no longer appeared. Output was:
 ```text
 <Expected output after fix>
 ```
-
-## Related
-- [Related Guide](../docs/programming-dev/databases/guide.md)

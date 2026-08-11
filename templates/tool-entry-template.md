@@ -49,6 +49,3 @@ app-name other-thing
 ## Gotchas and Known Issues
 - Known issue one -> workaround.
 - Environment variable or path quirk to be aware of.
-
-## Related
-- [Related App Notes](../cli/other-tool.md)

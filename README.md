@@ -31,7 +31,7 @@
 Pure structured how-to guides and technical documentation. Step-by-step instructions live here.
 
 <details>
-<summary><strong><a href="docs/programming-dev/">programming-dev/</a></strong> — Languages, version control, CI/CD, databases, and frameworks</summary>
+<summary><strong><a href="docs/programming-dev/">programming-dev/</a></strong>: Languages, version control, CI/CD, databases, and frameworks</summary>
 
 <br>
 
@@ -40,13 +40,22 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 
 - [Finding PostgreSQL Port](docs/programming-dev/databases/Postgres/port/finding-port.md)
 - [Reset PostgreSQL Password (Windows Script)](docs/programming-dev/databases/Postgres/reset-password/reset_pg_pas-windows.bat)
+- [Backup and Restore PostgreSQL with pg_dump](docs/programming-dev/databases/Postgres/backup-and-restore/pg-dump-guide.md)
+
+</details>
+
+<details>
+<summary><a href="docs/programming-dev/version-control/">version-control/</a></summary>
+
+- [Git Commands Survival Kit](docs/programming-dev/version-control/git-commands-survival-kit.md)
+- [Undoing Things in Git (Restore, Reset, Revert)](docs/programming-dev/version-control/undoing-things-in-git.md)
 
 </details>
 
 </details>
 
 <details>
-<summary><strong><a href="docs/games/">games/</a></strong> — Game guides, server hosting, modding, and game-specific notes</summary>
+<summary><strong><a href="docs/games/">games/</a></strong>: Game guides, server hosting, modding, and game-specific notes</summary>
 
 <br>
 
@@ -60,7 +69,7 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 </details>
 
 <details>
-<summary><strong><a href="docs/it-fundamentals/">it-fundamentals/</a></strong> — Hardware, networking, OS, and security</summary>
+<summary><strong><a href="docs/it-fundamentals/">it-fundamentals/</a></strong>: Hardware, networking, OS, and security</summary>
 
 <br>
 
@@ -68,6 +77,29 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 <summary><a href="docs/it-fundamentals/hardware/">hardware/</a></summary>
 
 - [Identifying Real PC Specs (dxdiag & msinfo32)](docs/it-fundamentals/hardware/identifying-real-pc-specs.md)
+
+</details>
+
+<details>
+<summary><a href="docs/it-fundamentals/networking/">networking/</a></summary>
+
+- [Diagnosing a No-Internet Connection on Windows](docs/it-fundamentals/networking/diagnosing-no-internet-connection.md)
+- [Common Network Ports Reference](docs/it-fundamentals/networking/common-ports-reference.md)
+
+</details>
+
+<details>
+<summary><a href="docs/it-fundamentals/operating-systems/">operating-systems/</a></summary>
+
+- [Windows Environment Variables: Management and PATH Guide](docs/it-fundamentals/operating-systems/windows-environment-variables.md)
+- [Understanding Windows Path Variables and System Directories](docs/it-fundamentals/operating-systems/understanding-windows-paths.md)
+
+</details>
+
+<details>
+<summary><a href="docs/it-fundamentals/security-privacy/">security-privacy/</a></summary>
+
+- [SSH Key Pair Generation and Setup on Windows](docs/it-fundamentals/security-privacy/ssh-key-setup-windows.md)
 
 </details>
 
@@ -79,7 +111,15 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 
 Notes and configuration guides tied to a specific application or tool.
 
-*No active entries yet.*
+<details>
+<summary><strong><a href="apps/developer/">developer/</a></strong>: Developer utilities, proxies, and database clients</summary>
+
+<br>
+
+- [Ngrok: Setup, Authtoken, and Localhost Tunneling](apps/developer/Ngrok/ngrok-setup-and-usage.md)
+- [TablePlus: Connecting to PostgreSQL](apps/developer/TablePlus/tableplus-connecting-to-postgres.md)
+
+</details>
 
 ---
 
@@ -87,7 +127,8 @@ Notes and configuration guides tied to a specific application or tool.
 
 Single-page quick reference cards for frequently used commands, syntax, and shortcuts.
 
-*No active entries yet.*
+- [Git Command Cheatsheet](cheatsheets/git-cheatsheet.md)
+- [Windows CMD vs PowerShell Cheatsheet](cheatsheets/windows-cmd-powershell.md)
 
 ---
 
@@ -112,7 +153,7 @@ Informal personal notes, tips, and tricks that do not fit structured documentati
 Standardized template Markdown files for adding new content to the repository.
 
 <details>
-<summary><strong><a href="templates/">templates/</a></strong> — Templates for guides, tool entries, and troubleshooting</summary>
+<summary><strong><a href="templates/">templates/</a></strong>: Templates for guides, tool entries, and troubleshooting</summary>
 
 <br>
 

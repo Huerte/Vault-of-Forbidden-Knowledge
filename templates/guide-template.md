@@ -57,6 +57,3 @@ Expected output or behavior after a successful run.
 ## Common Errors
 - `Exact Error Message` -> Why it happens -> Exact fix.
   ![Error screenshot if helpful](../../assets/images/<section>/<category>/<guide-name>/error-name.png)
-
-## Related
-- [Related Guide](../path/to/guide.md)
