@@ -1,14 +1,42 @@
-<h1 align="center">
-	<b>Welcome to the <i>Vault of Forbidden Knowledge</i></b>
-</h1>
-
 <div align="center">
-	<img src="assets/gifs/hellmo-forbidden-knowledge.gif" alt="Welcome Banner">
+
+# Vault of Forbidden Knowledge
+
+<p align="center">
+  <img src="assets/gifs/hellmo-forbidden-knowledge.gif" alt="Welcome Banner">
+</p>
+
+[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Active-blue.svg)](#)
+[![Platform](https://img.shields.io/badge/platform-Cross--Platform-blueviolet.svg)](#)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+**Centralized personal knowledge base for IT work, software development, gaming, apps, general tech notes, and random stuff.**
+
+[Report a Bug](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues) · [Request a Feature](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues)
+
 </div>
 
-<div align="center">
-	<h3>Centralized personal knowledge base for IT work, software development, gaming, apps, general tech notes, and random stuff.</h3>
-</div>
+---
+
+<p align="center">
+  Welcome to the Vault of Forbidden Knowledge. This is a single repository serving as the second brain for everything from complex IT troubleshooting to simple commands we keep forgetting.
+</p>
+
+---
+
+## Table of Contents
+
+- [Navigation](#navigation)
+- [docs](#docs)
+- [apps](#apps)
+- [cheatsheets](#cheatsheets)
+- [logs](#logs)
+- [notes](#notes)
+- [templates](#templates)
+- [Assets and Images](#assets-and-images)
+- [Contributing](#contributing)
+- [Contributor](#contributor)
+- [License](#license)
 
 ---
 
@@ -179,8 +207,89 @@ Images: assets/images/docs/programming-dev/databases/setup-postgresql/
 
 ---
 
-## Goodluck Mate!!!
+## Contributing
+
+Contributions are welcome. Here is how to go from zero to a submitted pull request.
+
+### Getting Started
+
+**Prerequisites:** Git.
+
+**Fork and clone:**
+
+```
+# 1. Fork the repo on GitHub, then clone your fork
+git clone https://github.com/YOUR_USERNAME/Vault-of-Forbidden-Knowledge.git
+cd Vault-of-Forbidden-Knowledge
+
+# 2. Keep your fork in sync with the original
+git remote add upstream https://github.com/Huerte/Vault-of-Forbidden-Knowledge.git
+```
+
+### Making Changes
+
+**Branch naming:**
+
+```
+feat/short-description    # New guides or sections
+fix/short-description     # Corrections to existing guides
+docs/short-description    # Meta documentation
+chore/short-description   # Repository maintenance
+```
+
+**Commit messages:** Use plain English. Describe what changed and why:
+
+```
+# Good
+git commit -m "feat: add guide for finding postgres port"
+git commit -m "fix: correct typo in ngrok setup command"
+git commit -m "chore: reorganize assets folder"
+
+# Avoid
+git commit -m "fix stuff"
+git commit -m "update notes"
+```
+
+**Content style:**
+
+- Use the provided templates in the `templates/` directory.
+- Keep guides concise and straightforward.
+- Add screenshots when the process is not immediately obvious.
+
+### Submitting a Pull Request
+
+1. Push your branch to your fork:
+   ```
+   git push origin feat/your-feature
+   ```
+
+2. Open a Pull Request against `Huerte/Vault-of-Forbidden-Knowledge:main` on GitHub.
+
+3. In the PR description, briefly explain: what you added or changed, and why it's useful.
+
+---
+
+## Contributors
 
 <div align="center">
-	<img src="assets/gifs/una.gif" alt="May odds in your favor">
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/Huerte"><img src="https://github.com/Huerte.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Huerte"><b>Huerte</b></a><br />Creator</td>
+      <!-- Add more contributors here -->
+    </tr>
+  </table>
+</div>
+
+---
+
+## License
+
+Distributed under the **MIT** License. See [`LICENSE`](LICENSE) for details.
+
+---
+
+## To Whoever Inherits This Mess
+
+<div align="center">
+  <img src="assets/gifs/una.gif" alt="May odds in your favor">
 </div>
