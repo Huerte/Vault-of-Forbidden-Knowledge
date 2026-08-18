@@ -274,12 +274,12 @@ git commit -m "update notes"
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/Huerte"><img src="https://github.com/Huerte.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Huerte"><b>Huerte</b></a><br />Creator</td>
-      <td align="center"><a href="https://github.com/hyrel3241-ctrl"><img src="https://github.com/hyrel3241-ctrl.png" width="80px;" alt=""/></a><br /><a href="https://github.com/hyrel3241-ctrl"><b>Bears</b></a><br />Collaborator</td>
-      <td align="center"><a href="https://github.com/LabialDaryl"><img src="https://github.com/LabialDaryl.png" width="80px;" alt=""/></a><br /><a href="https://github.com/LabialDaryl"><b>LabialDaryl</b></a><br />Collaborator</td>
-      <td align="center"><a href="https://github.com/Lost-sudo"><img src="https://github.com/Lost-sudo.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Lost-sudo"><b>John Patrick Paraon</b></a><br />Collaborator</td>
-      <td align="center"><a href="https://github.com/Ts4rd"><img src="https://github.com/Ts4rd.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Ts4rd"><b>CHARD</b></a><br />Collaborator</td>
-      <td align="center"><a href="https://github.com/wawixscutie"><img src="https://github.com/wawixscutie.png" width="80px;" alt=""/></a><br /><a href="https://github.com/wawixscutie"><b>Cubelo</b></a><br />Collaborator</td>
+      <td align="center"><a href="https://github.com/Huerte"><img src="https://github.com/Huerte.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Huerte"><b>Huerte</b></a><br /></td>
+      <td align="center"><a href="https://github.com/hyrel3241-ctrl"><img src="https://github.com/hyrel3241-ctrl.png" width="80px;" alt=""/></a><br /><a href="https://github.com/hyrel3241-ctrl"><b>Bears</b></a><br /></td>
+      <td align="center"><a href="https://github.com/LabialDaryl"><img src="https://github.com/LabialDaryl.png" width="80px;" alt=""/></a><br /><a href="https://github.com/LabialDaryl"><b>LabialDaryl</b></a><br /></td>
+      <td align="center"><a href="https://github.com/Lost-sudo"><img src="https://github.com/Lost-sudo.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Lost-sudo"><b>John Patrick Paraon</b></a><br /></td>
+      <td align="center"><a href="https://github.com/Ts4rd"><img src="https://github.com/Ts4rd.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Ts4rd"><b>CHARD</b></a><br /></td>
+      <td align="center"><a href="https://github.com/wawixscutie"><img src="https://github.com/wawixscutie.png" width="80px;" alt=""/></a><br /><a href="https://github.com/wawixscutie"><b>Cubelo</b></a><br /></td>
     </tr>
   </table>
 </div>
