@@ -3,7 +3,7 @@
 # Vault of Forbidden Knowledge
 
 <p align="center">
-  <img src="assets/gifs/hellmo-forbidden-knowledge.gif" alt="Welcome Banner">
+  <img src="assets/gifs/hellmo-forbidden-knowledge.gif" alt="Elmo with both arms raised, surrounded by flames against a dark smoky background, under the words FORBIDDEN KNOWLEDGE!!!">
 </p>
 
 [![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Active-blue.svg)](#)
@@ -331,5 +331,5 @@ Distributed under the **MIT** License. See [`LICENSE`](LICENSE) for details.
 ## To Whoever Inherits This Mess
 
 <div align="center">
-  <img src="assets/gifs/una.gif" alt="May odds in your favor">
+  <img src="assets/gifs/una.gif" alt="Katniss Everdeen raising her hand in the three-finger salute in front of a green forest, with the caption MAY THE ODDS EVER BE IN YOUR FAVOR!!!">
 </div>
