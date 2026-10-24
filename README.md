@@ -93,6 +93,8 @@ Vault-of-Forbidden-Knowledge/
 
 Pure structured how-to guides and technical documentation. Step-by-step instructions live here.
 
+Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossary.md).
+
 <details>
 <summary><strong><a href="docs/programming-dev/">programming-dev/</a></strong>: Languages, version control, CI/CD, databases, and frameworks</summary>
 
