@@ -54,6 +54,7 @@ If the vault saves you time, a [star](https://github.com/Huerte/Vault-of-Forbidd
 - [notes](#notes)
 - [templates](#templates)
 - [Contributing](#contributing)
+- [FAQ](#faq)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -283,6 +284,25 @@ Images: assets/images/docs/programming-dev/databases/setup-postgresql/
 2. Open a Pull Request against `Huerte/Vault-of-Forbidden-Knowledge:main` on GitHub.
 
 3. In the PR description, briefly explain: what you added or changed, and why it's useful.
+
+---
+
+## FAQ
+
+**Can I copy these guides into my own notes or team wiki?**
+Yes. Everything here is under the [MIT License](LICENSE). Keeping a link back to the repo is appreciated but not required.
+
+**Do I need to know how to code to contribute?**
+No. Most tasks on the [good first issues](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22good%20first%20issue%22) board are writing, proofreading, or sharing a tip. If you can write a forum post, you can contribute.
+
+**How do I suggest a topic for a new guide?**
+Open an issue with the **Request a Guide** template from the [issue tracker](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues/new/choose). A maintainer will label it so someone can pick it up.
+
+**A guide did not work for me, or a step looks out of date. What should I do?**
+Open a **Report a Problem** issue and say which step failed and what you saw. Screenshots of the error help a lot. Fixing it yourself is also welcome, even if it is just a one-line correction.
+
+**Do I need to install anything to read the vault?**
+No. Everything renders right here on GitHub. Cloning is only needed if you want to contribute changes.
 
 ---
 
