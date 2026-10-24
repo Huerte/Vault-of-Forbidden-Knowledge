@@ -9,10 +9,13 @@
 [![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-Active-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/platform-Cross--Platform-blueviolet.svg)](#)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Huerte/Vault-of-Forbidden-Knowledge?style=flat&color=e3b341)](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/stargazers)
+[![Good First Issues](https://img.shields.io/github/issues/Huerte/Vault-of-Forbidden-Knowledge/good%20first%20issue?color=7057ff&label=good%20first%20issues)](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22good+first+issue%22)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **Centralized personal knowledge base for IT work, software development, gaming, general tech notes, and random stuff.**
 
-[Report a Bug](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues) · [Request a Feature](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues)
+[Good First Issues](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22good+first+issue%22) · [Request a Guide](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues/new/choose) · [Report a Problem](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues/new/choose) · [Star this repo](https://github.com/Huerte/Vault-of-Forbidden-Knowledge)
 
 </div>
 
@@ -24,17 +27,34 @@
 
 ---
 
+## New Here? Start With a Good First Issue
+
+You do not need to write code. Pick something small, comment on the issue, and open a pull request.
+
+| Time | What you can do | Where to start |
+|---|---|---|
+| 2 to 5 min | Fix a typo, share a tip, report a broken link | [time: 5 min](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22time%3A+5+min%22) |
+| 10 to 15 min | Proofread a guide, add a cheatsheet, log an error you fixed | [time: 15 min](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22time%3A+15+min%22) |
+| 20+ min | Write a new guide | [write a guide](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22write+a+guide%22) |
+
+All beginner-friendly tasks: [good first issues](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22good+first+issue%22). Never opened a pull request? Try [First Contributions](https://github.com/firstcontributions/first-contributions).
+
+If the vault saves you time, a [star](https://github.com/Huerte/Vault-of-Forbidden-Knowledge) helps other people find it.
+
+---
+
 ## Table of Contents
 
+- [New Here?](#new-here-start-with-a-good-first-issue)
 - [Navigation](#navigation)
+- [Repository Structure](#repository-structure)
 - [docs](#docs)
 - [cheatsheets](#cheatsheets)
 - [logs](#logs)
 - [notes](#notes)
 - [templates](#templates)
-- [Assets and Images](#assets-and-images)
 - [Contributing](#contributing)
-- [Contributor](#contributor)
+- [Contributors](#contributors)
 - [License](#license)
 
 ---
@@ -48,7 +68,24 @@
 | [logs](#logs) | Dated troubleshooting and incident entries |
 | [notes](#notes) | Random personal tips, tricks, and miscellaneous stuff |
 | [templates](#templates) | Standardized templates for creating new guides and entries |
-| [Assets and Images](#assets-and-images) | Image storage conventions |
+| [Adding screenshots](#adding-screenshots-and-images) | How images are stored for each guide |
+
+---
+
+## Repository Structure
+
+```text
+Vault-of-Forbidden-Knowledge/
+├── docs/          Step-by-step guides
+│   ├── programming-dev/   languages, version-control, databases, frameworks, ci-cd
+│   ├── it-fundamentals/   hardware, networking, operating-systems, security-privacy
+│   └── games/             game guides and server setups
+├── cheatsheets/   One-page quick references
+├── logs/          Dated bug and fix entries
+├── notes/         Short tips and tricks
+├── templates/     Starting points for new files
+└── assets/        Images, GIFs, and diagrams used by the docs
+```
 
 ---
 
@@ -175,23 +212,9 @@ Standardized template Markdown files for adding new content to the repository.
 
 ---
 
-## Assets and Images
-
-Every guide that has screenshots stores its images in `assets/images/` using the same path as the guide itself. The subfolder name matches the guide filename exactly.
-
-```text
-Guide:  docs/programming-dev/databases/setup-postgresql.md
-Images: assets/images/docs/programming-dev/databases/setup-postgresql/
-        ├── 01-dashboard.png
-        ├── 02-env-vars.png
-        └── 03-success.png
-```
-
----
-
 ## Contributing
 
-Contributions are welcome. Here is how to go from zero to a submitted pull request.
+Contributions are welcome, and you do not need to write code. Browse the [good first issues](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22good+first+issue%22), read the [Contributing Guide](CONTRIBUTING.md), and be kind ([Code of Conduct](CODE_OF_CONDUCT.md)). Here is how to go from zero to a submitted pull request.
 
 ### Getting Started
 
@@ -238,6 +261,18 @@ git commit -m "update notes"
 - Keep guides concise and straightforward.
 - Add screenshots when the process is not immediately obvious.
 
+### Adding Screenshots and Images
+
+Every guide that has screenshots stores its images in `assets/images/` using the same path as the guide itself. The subfolder name matches the guide filename exactly.
+
+```text
+Guide:  docs/programming-dev/databases/setup-postgresql.md
+Images: assets/images/docs/programming-dev/databases/setup-postgresql/
+        ├── 01-dashboard.png
+        ├── 02-env-vars.png
+        └── 03-success.png
+```
+
 ### Submitting a Pull Request
 
 1. Push your branch to your fork:
@@ -253,18 +288,13 @@ git commit -m "update notes"
 
 ## Contributors
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="https://github.com/Huerte"><img src="https://github.com/Huerte.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Huerte"><b>Huerte</b></a><br /></td>
-      <td align="center"><a href="https://github.com/hyrel3241-ctrl"><img src="https://github.com/hyrel3241-ctrl.png" width="80px;" alt=""/></a><br /><a href="https://github.com/hyrel3241-ctrl"><b>Bears</b></a><br /></td>
-      <td align="center"><a href="https://github.com/LabialDaryl"><img src="https://github.com/LabialDaryl.png" width="80px;" alt=""/></a><br /><a href="https://github.com/LabialDaryl"><b>LabialDaryl</b></a><br /></td>
-      <td align="center"><a href="https://github.com/Lost-sudo"><img src="https://github.com/Lost-sudo.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Lost-sudo"><b>John Patrick Paraon</b></a><br /></td>
-      <td align="center"><a href="https://github.com/Ts4rd"><img src="https://github.com/Ts4rd.png" width="80px;" alt=""/></a><br /><a href="https://github.com/Ts4rd"><b>CHARD</b></a><br /></td>
-      <td align="center"><a href="https://github.com/wawixscutie"><img src="https://github.com/wawixscutie.png" width="80px;" alt=""/></a><br /><a href="https://github.com/wawixscutie"><b>Cubelo</b></a><br /></td>
-    </tr>
-  </table>
-</div>
+Thanks to everyone who helps this collection grow.
+
+<a href="../../graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Huerte/Vault-of-Forbidden-Knowledge" alt="Contributors">
+</a>
+
+Want to see your face here? Pick a [good first issue](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues?q=is%3Aopen+label%3A%22good+first+issue%22). If you like the project, a [star](https://github.com/Huerte/Vault-of-Forbidden-Knowledge) is appreciated but never required.
 
 ---
 
