@@ -147,6 +147,7 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 <summary><a href="docs/it-fundamentals/networking/">networking/</a></summary>
 
 - [Diagnosing a No-Internet Connection on Windows](docs/it-fundamentals/networking/diagnosing-no-internet-connection.md)
+- [Find Your Local IP Address on Windows](docs/it-fundamentals/networking/find-local-ip-windows.md)
 - [Common Network Ports Reference](docs/it-fundamentals/networking/common-ports-reference.md)
 
 </details>
@@ -163,6 +164,7 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 <summary><a href="docs/it-fundamentals/security-privacy/">security-privacy/</a></summary>
 
 - [SSH Key Pair Generation and Setup on Windows](docs/it-fundamentals/security-privacy/ssh-key-setup-windows.md)
+- [Turn On Two-Factor Authentication for GitHub](docs/it-fundamentals/security-privacy/enable-github-2fa.md)
 
 </details>
 
