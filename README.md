@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/platform-Cross--Platform-blueviolet.svg)](#)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**Centralized personal knowledge base for IT work, software development, gaming, apps, general tech notes, and random stuff.**
+**Centralized personal knowledge base for IT work, software development, gaming, general tech notes, and random stuff.**
 
 [Report a Bug](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues) · [Request a Feature](https://github.com/Huerte/Vault-of-Forbidden-Knowledge/issues)
 
@@ -28,7 +28,6 @@
 
 - [Navigation](#navigation)
 - [docs](#docs)
-- [apps](#apps)
 - [cheatsheets](#cheatsheets)
 - [logs](#logs)
 - [notes](#notes)
@@ -45,7 +44,6 @@
 | Section | Description |
 |---|---|
 | [docs](#docs) | Structured how-to guides and technical write-ups |
-| [apps](#apps) | Notes and guides for specific applications and tools |
 | [cheatsheets](#cheatsheets) | One-page quick reference cards |
 | [logs](#logs) | Dated troubleshooting and incident entries |
 | [notes](#notes) | Random personal tips, tricks, and miscellaneous stuff |
@@ -130,22 +128,6 @@ Pure structured how-to guides and technical documentation. Step-by-step instruct
 - [SSH Key Pair Generation and Setup on Windows](docs/it-fundamentals/security-privacy/ssh-key-setup-windows.md)
 
 </details>
-
-</details>
-
----
-
-## [apps](apps/)
-
-Notes and configuration guides tied to a specific application or tool.
-
-<details>
-<summary><strong><a href="apps/developer/">developer/</a></strong>: Developer utilities, proxies, and database clients</summary>
-
-<br>
-
-- [Ngrok: Setup, Authtoken, and Localhost Tunneling](apps/developer/Ngrok/ngrok-setup-and-usage.md)
-- [TablePlus: Connecting to PostgreSQL](apps/developer/TablePlus/tableplus-connecting-to-postgres.md)
 
 </details>
 
