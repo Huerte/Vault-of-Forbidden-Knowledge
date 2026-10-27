@@ -109,6 +109,12 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 - [Backup and Restore PostgreSQL with pg_dump](docs/programming-dev/databases/Postgres/backup-and-restore/pg-dump-guide.md)
 
 </details>
+<details>
+<summary><a href="docs/programming-dev/frameworks/">frameworks/</a></summary>
+
+- [Run Your First Django Project](docs/programming-dev/frameworks/run-first-django-project.md)
+
+</details>
 
 <details>
 <summary><a href="docs/programming-dev/version-control/">version-control/</a></summary>
