@@ -1,7 +1,4 @@
-[← Back to README](../README.md) | [Contributing Guide](../CONTRIBUTING.md)
-
 ---
-
 Title: Windows Keyboard Shortcuts
 Section: cheatsheets
 Category: windows
@@ -9,6 +6,10 @@ Difficulty: Beginner
 Last verified: 2026-10-31
 Prerequisites: Windows 10 or Windows 11
 Has screenshots: No
+---
+
+[← Back to README](../README.md) | [Contributing Guide](../CONTRIBUTING.md)
+
 ---
 
 # Windows Keyboard Shortcuts Cheatsheet
