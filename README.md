@@ -186,6 +186,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 Single-page quick reference cards for frequently used commands, syntax, and shortcuts.
 
 - [Git Command Cheatsheet](cheatsheets/git-cheatsheet.md)
+- [Windows Keyboard Shortcuts Cheatsheet](cheatsheets/windows-keyboard-shortcuts.md)
 - [Windows CMD vs PowerShell Cheatsheet](cheatsheets/windows-cmd-powershell.md)
 
 ---
