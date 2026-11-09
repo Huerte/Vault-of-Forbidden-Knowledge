@@ -173,6 +173,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 <summary><a href="docs/it-fundamentals/security-privacy/">security-privacy/</a></summary>
 
 - [SSH Key Pair Generation and Setup on Windows](docs/it-fundamentals/security-privacy/ssh-key-setup-windows.md)
+- [SSH Key Pair Generation and Setup on Linux/macOS](docs/it-fundamentals/security-privacy/ssh-key-setup-linux-macos.md)
 - [Turn On Two-Factor Authentication for GitHub](docs/it-fundamentals/security-privacy/enable-github-2fa.md)
 
 </details>
