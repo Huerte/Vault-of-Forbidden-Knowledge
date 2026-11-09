@@ -16,6 +16,8 @@
 
 # How to Create and Set Up SSH Keys on Windows
 
+On Linux or macOS? Follow the [Linux/macOS SSH key guide](ssh-key-setup-linux-macos.md) instead.
+
 ## Overview
 
 When you connect to GitHub, GitLab, or a remote server, typing your username and password every single time is slow and annoying.
