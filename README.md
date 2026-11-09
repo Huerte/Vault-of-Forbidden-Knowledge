@@ -106,6 +106,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 
 - [Finding PostgreSQL Port](docs/programming-dev/databases/Postgres/port/finding-port.md)
 - [Reset PostgreSQL Password (Windows Script)](docs/programming-dev/databases/Postgres/reset-password/reset_pg_pas-windows.bat)
+- [Reset PostgreSQL Password on Windows (Script Explanation and Safety)](docs/programming-dev/databases/Postgres/reset-password/reset-postgres-password-windows.md)
 - [Backup and Restore PostgreSQL with pg_dump](docs/programming-dev/databases/Postgres/backup-and-restore/pg-dump-guide.md)
 
 </details>
