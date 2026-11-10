@@ -187,7 +187,7 @@ Single-page quick reference cards for frequently used commands, syntax, and shor
 
 - [Git Command Cheatsheet](cheatsheets/git-cheatsheet.md)
 - [Windows CMD vs PowerShell Cheatsheet](cheatsheets/windows-cmd-powershell.md)
-
+- [Linux Terminal Basics Cheatsheet](cheatsheets/linux-terminal-basics.md)
 ---
 
 ## [logs](logs/)
