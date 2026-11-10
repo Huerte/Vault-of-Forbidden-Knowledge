@@ -190,7 +190,7 @@ Single-page quick reference cards for frequently used commands, syntax, and shor
 - [Git Command Cheatsheet](cheatsheets/git-cheatsheet.md)
 - [Windows Keyboard Shortcuts Cheatsheet](cheatsheets/windows-keyboard-shortcuts.md)
 - [Windows CMD vs PowerShell Cheatsheet](cheatsheets/windows-cmd-powershell.md)
-
+- [SQL Basics Cheatsheet](cheatsheets/sql-basics.md)
 ---
 
 ## [logs](logs/)
