@@ -191,6 +191,7 @@ Single-page quick reference cards for frequently used commands, syntax, and shor
 - [Git Command Cheatsheet](cheatsheets/git-cheatsheet.md)
 - [Windows Keyboard Shortcuts Cheatsheet](cheatsheets/windows-keyboard-shortcuts.md)
 - [Windows CMD vs PowerShell Cheatsheet](cheatsheets/windows-cmd-powershell.md)
+- [Visual Studio Code Shortcuts Cheatsheet](cheatsheets/vscode-shortcuts.md)
 - [Linux Terminal Basics Cheatsheet](cheatsheets/linux-terminal-basics.md)
 - [Python venv and pip Cheatsheet](cheatsheets/python-venv-pip.md)
 - [SQL Basics Cheatsheet](cheatsheets/sql-basics.md)
