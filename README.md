@@ -187,7 +187,7 @@ Single-page quick reference cards for frequently used commands, syntax, and shor
 
 - [Git Command Cheatsheet](cheatsheets/git-cheatsheet.md)
 - [Windows CMD vs PowerShell Cheatsheet](cheatsheets/windows-cmd-powershell.md)
-
+- [Visual Studio Code Shortcuts Cheatsheet](cheatsheets/vscode-shortcuts.md)
 ---
 
 ## [logs](logs/)
