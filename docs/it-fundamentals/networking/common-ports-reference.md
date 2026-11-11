@@ -38,7 +38,11 @@ When you play a game, open a website, or connect to a database, your computer us
 | **22** | SSH | Secure remote login to control Linux servers and Raspberry Pi boards. |
 | **21** | FTP | Old file sending protocol used to upload files to web hosts. |
 | **3389** | RDP | Windows Remote Desktop to see and control another Windows PC screen. |
-
+| **25** | SMTP | Sending email messages across mail servers on the internet. |
+| **110** | POP3 | Downloading and retrieving emails from a mail server to your email client. |
+| **143** | IMAP | Syncing and reading email folders across multiple devices and webmail. |
+| **123** | NTP | Keeping your computer's clock synchronized with global time servers. |
+| **67 / 68** | DHCP | Automatically assigning IP addresses to devices when they connect to a network. |
 ---
 
 ### 2. Database Ports (For Programmers and Apps)
