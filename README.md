@@ -106,6 +106,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 
 - [Finding PostgreSQL Port](docs/programming-dev/databases/Postgres/port/finding-port.md)
 - [Reset PostgreSQL Password (Windows Script)](docs/programming-dev/databases/Postgres/reset-password/reset_pg_pas-windows.bat)
+- [Reset PostgreSQL Password on Windows (Script Explanation and Safety)](docs/programming-dev/databases/Postgres/reset-password/reset-postgres-password-windows.md)
 - [Backup and Restore PostgreSQL with pg_dump](docs/programming-dev/databases/Postgres/backup-and-restore/pg-dump-guide.md)
 
 </details>
@@ -149,7 +150,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 <summary><a href="docs/it-fundamentals/hardware/">hardware/</a></summary>
 
 - [Identifying Real PC Specs (dxdiag & msinfo32)](docs/it-fundamentals/hardware/identifying-real-pc-specs.md)
-
+- [Check Free Disk Space and Storage Usage on Windows](docs/it-fundamentals/hardware/check-disk-space-windows.md)
 </details>
 
 <details>
@@ -158,7 +159,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 - [Diagnosing a No-Internet Connection on Windows](docs/it-fundamentals/networking/diagnosing-no-internet-connection.md)
 - [Find Your Local IP Address on Windows](docs/it-fundamentals/networking/find-local-ip-windows.md)
 - [Common Network Ports Reference](docs/it-fundamentals/networking/common-ports-reference.md)
-
+- [Kill the Process That Is Using a Port on Windows](docs/it-fundamentals/networking/kill-process-on-port-windows.md)
 </details>
 
 <details>
@@ -166,6 +167,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 
 - [Windows Environment Variables: Management and PATH Guide](docs/it-fundamentals/operating-systems/windows-environment-variables.md)
 - [Understanding Windows Path Variables and System Directories](docs/it-fundamentals/operating-systems/understanding-windows-paths.md)
+- [Create a Windows Restore Point](docs/it-fundamentals/operating-systems/create-windows-restore-point.md)
 
 </details>
 
@@ -173,6 +175,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 <summary><a href="docs/it-fundamentals/security-privacy/">security-privacy/</a></summary>
 
 - [SSH Key Pair Generation and Setup on Windows](docs/it-fundamentals/security-privacy/ssh-key-setup-windows.md)
+- [SSH Key Pair Generation and Setup on Linux/macOS](docs/it-fundamentals/security-privacy/ssh-key-setup-linux-macos.md)
 - [Turn On Two-Factor Authentication for GitHub](docs/it-fundamentals/security-privacy/enable-github-2fa.md)
 
 </details>
@@ -186,8 +189,12 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 Single-page quick reference cards for frequently used commands, syntax, and shortcuts.
 
 - [Git Command Cheatsheet](cheatsheets/git-cheatsheet.md)
+- [Windows Keyboard Shortcuts Cheatsheet](cheatsheets/windows-keyboard-shortcuts.md)
 - [Windows CMD vs PowerShell Cheatsheet](cheatsheets/windows-cmd-powershell.md)
 - [Visual Studio Code Shortcuts Cheatsheet](cheatsheets/vscode-shortcuts.md)
+- [Linux Terminal Basics Cheatsheet](cheatsheets/linux-terminal-basics.md)
+- [Python venv and pip Cheatsheet](cheatsheets/python-venv-pip.md)
+- [SQL Basics Cheatsheet](cheatsheets/sql-basics.md)
 ---
 
 ## [logs](logs/)
