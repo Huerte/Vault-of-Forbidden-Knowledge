@@ -150,7 +150,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 <summary><a href="docs/it-fundamentals/hardware/">hardware/</a></summary>
 
 - [Identifying Real PC Specs (dxdiag & msinfo32)](docs/it-fundamentals/hardware/identifying-real-pc-specs.md)
-
+- [Check Free Disk Space and Storage Usage on Windows](docs/it-fundamentals/hardware/check-disk-space-windows.md)
 </details>
 
 <details>
