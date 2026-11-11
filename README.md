@@ -195,7 +195,8 @@ Single-page quick reference cards for frequently used commands, syntax, and shor
 - [Linux Terminal Basics Cheatsheet](cheatsheets/linux-terminal-basics.md)
 - [Python venv and pip Cheatsheet](cheatsheets/python-venv-pip.md)
 - [SQL Basics Cheatsheet](cheatsheets/sql-basics.md)
----
+- [PostgreSQL psql Commands Cheatsheet](cheatsheets/psql-commands.md)
+----
 
 ## [logs](logs/)
 
