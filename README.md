@@ -167,6 +167,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 
 - [Windows Environment Variables: Management and PATH Guide](docs/it-fundamentals/operating-systems/windows-environment-variables.md)
 - [Understanding Windows Path Variables and System Directories](docs/it-fundamentals/operating-systems/understanding-windows-paths.md)
+- [Create a Windows Restore Point](docs/it-fundamentals/operating-systems/create-windows-restore-point.md)
 
 </details>
 
