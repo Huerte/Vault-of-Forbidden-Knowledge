@@ -159,7 +159,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 - [Diagnosing a No-Internet Connection on Windows](docs/it-fundamentals/networking/diagnosing-no-internet-connection.md)
 - [Find Your Local IP Address on Windows](docs/it-fundamentals/networking/find-local-ip-windows.md)
 - [Common Network Ports Reference](docs/it-fundamentals/networking/common-ports-reference.md)
-
+- [Kill the Process That Is Using a Port on Windows](docs/it-fundamentals/networking/kill-process-on-port-windows.md)
 </details>
 
 <details>
