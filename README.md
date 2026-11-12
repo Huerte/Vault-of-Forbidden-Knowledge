@@ -102,6 +102,14 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 <br>
 
 <details>
+<summary><a href="docs/programming-dev/languages/">languages</a></summary>
+
+- [Create and Activate a Python Virtual Environment](docs/programming-dev/languages/create-python-virtualenv.md)
+
+</details>
+
+
+<details>
 <summary><a href="docs/programming-dev/databases/">databases/</a></summary>
 
 - [Finding PostgreSQL Port](docs/programming-dev/databases/Postgres/port/finding-port.md)
