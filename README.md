@@ -105,7 +105,7 @@ Keep seeing a word you do not know? It is probably in the [Glossary](docs/glossa
 <summary><a href="docs/programming-dev/languages/">languages</a></summary>
 
 - [Create and Activate a Python Virtual Environment](docs/programming-dev/languages/create-python-virtualenv.md)
-
+- [Install Python on Windows and Check PATH](docs/programming-dev/languages/install-python-windows.md)
 </details>
 
 
